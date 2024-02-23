@@ -1,4 +1,4 @@
-import { minimal, penjumlahanBilangan, power } from "../src/minimal";
+import { minimal, penjumlahanBilangan, power } from "../src/functions";
 
 describe("Functions Test", function () {
   it("test Function minimal", function () {
